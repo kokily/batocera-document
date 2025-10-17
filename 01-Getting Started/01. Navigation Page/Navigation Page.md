@@ -21,16 +21,16 @@ Batocera가 사용하는 프런트 엔드 메뉴:
 - [File Management](https://wiki.batocera.org/file_management)
 
 문제가 있거나 뭔가가 의도한 대로 작동하지 않습니까?  
-- [Help/Support & Releases]()
+- [Help/Support & Releases](https://wiki.batocera.org/support)
 
-Users who are more familiar with typical Linux distributions may want to check this out:
-Advanced Users
-Advanced EmulationStation
-Scripting
+일반적인 Linux 배포판에 더 익숙한 사용자는 다음을 확인하는 것이 좋습니다.
+- [Advanced Users](https://wiki.batocera.org/advanced_users)
+- [Advanced EmulationStation](https://wiki.batocera.org/advanced_emulationstation)
+- [Scripting](https://wiki.batocera.org/scripting)
 
-Interested in contributing to Batocera?
-Development
-Documentation Contribution
+Batocera에 기여하는 데 관심이 있으십니까?
+- [Development](https://wiki.batocera.org/development)
+- [Documentation Contribution](https://wiki.batocera.org/wiki_editing)
 
-About Batocera and its licensing information
-About
+Batocera 및 라이선스 정보 정보
+- [About](https://wiki.batocera.org/about)
